@@ -1,0 +1,42 @@
+a{
+    color: black;
+}
+.buy-now-btn{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+/* section 1 */
+.text-with-carousel{
+    background-color: teal;
+    width: 480px;
+    height: 350px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+#carouselExampleIndicators{
+    background-color: thistle;
+    /* width: 550px; */
+    margin-bottom: 50px;
+}
+/* section 2,3 */
+.smartphone-laptop{
+    margin-left: 130px;
+}
+.see-all{
+    color: orange;
+    margin-right: 130px;
+}
+.card-deck{
+    margin-bottom: 50px;
+}
+.card{
+    box-shadow: 3px 3px 8px gray;
+}
+
+/* section 4 */
+#catagories{
+    margin-top: 80px;
+}
