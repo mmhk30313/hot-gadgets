@@ -37,6 +37,33 @@ a{
 }
 
 /* section 4 */
+.grid{
+    margin-top: 80px;
+}
 #catagories{
     margin-top: 80px;
+    margin-bottom: 20px;
+}
+.card-img-top{
+    width: 40%;
+    padding: 50px 0px 20px 0px;
+}
+.card-body{
+    padding-bottom: 50px;
+    text-align: center;
+}
+#perfum,#shoes{
+    margin-bottom: 50px;
+    /* background-color: lightskyblue;
+    height: 15rem; */
+}
+#pale-order{
+    /* background-color: lightseagreen; */
+    width: 30rem;
+}
+
+footer{
+    margin-top: 20px;
+    text-align: center;
+    font-style: italic;
 }
