@@ -9,25 +9,43 @@ a{
 }
 /* section 1 */
 .text-with-carousel{
-    background-color: teal;
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    width: none;
+    background-size: 120px;
+    background-position:left bottom;
+    /* background-color: teal; */
     width: 480px;
     height: 350px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.carousel-img-all{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    width: none;
+    background-size: 50px;
+    left: 10px;
+    /* background-color: teal; */
+    background-position-y: top;
 }
 .carousel-item{
     padding: 20px 40px;
 }
 #carouselExampleIndicators{
-    background-color: thistle;
+    /* background-color: thistle; */
     /* width: 550px; */
     margin-bottom: 50px;
 }
 /* section 2,3 */
 .smartphone-laptop{
-    margin-left: 130px;
+    margin-left: 200px;
+
 }
 .see-all{
-    color: orange;
-    margin-right: 130px;
+    /* background-image: linear-gradient(to right,rgb(253, 216, 5),rgb(253, 166, 5)); */
+    color: rgb(253, 216, 5);
+    margin-right: 200px;
 }
 .card-deck{
     margin-bottom: 50px;
