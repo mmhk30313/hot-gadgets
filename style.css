@@ -20,15 +20,16 @@ a{
     padding-left: 150px;
     padding-top: 20px;
 }
-.carousel-img-all{
+/* .carousel-img-all{
     background-image: url("images/bg-1.png");
     background-repeat: no-repeat;
     width: none;
     background-size: 50px;
     left: 10px;
-    /* background-color: teal; */
+    background-color: teal;
     background-position-y: top;
-}
+    transform: translateX(10%);
+} */
 .carousel-item{
     padding: 20px 40px;
 }
